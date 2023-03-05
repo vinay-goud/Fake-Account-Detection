@@ -3,6 +3,7 @@ Identification of Fake Account In online Social Media Using Artifical Neaural Ne
 
 Requirements:
 
+language : Python
 Install Following Python Modules
  1. Tensorflow
  2. Keras
